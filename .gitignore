@@ -2,3 +2,5 @@
 .cover
 coverage
 webhook
+bin/
+*.deb
